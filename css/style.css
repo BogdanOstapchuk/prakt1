@@ -1,0 +1,21 @@
+.ostapchuk,
+.btns {
+	text-align: center;
+}
+.ostapchuk {
+	font-weight: 500;
+	border: 2px dashed black;
+	padding: 10px 30px;
+	margin-bottom: 30px;
+}
+button {
+	padding: 10px 20px;
+	font-weight: bold;
+}
+button:hover {
+	cursor: pointer;
+	background-color: azure;
+}
+button:active {
+	background-color: red;
+}
